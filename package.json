@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-mcsaatchi",
+  "version": "1.0.0",
+  "description": "ESlint config used at M&C Saatchi London",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MCSaatchi/eslint-config-mcsaatchi.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Lucas Motta <mail@lucasmotta.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MCSaatchi/eslint-config-mcsaatchi/issues"
+  },
+  "homepage": "https://github.com/MCSaatchi/eslint-config-mcsaatchi#readme"
+}
