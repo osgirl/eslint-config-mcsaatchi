@@ -46,7 +46,7 @@ module.exports = {
     "no-invalid-regexp": 2,
     "no-irregular-whitespace": 2,
     "no-obj-calls": 2,
-    "no-reserved-keys": 1,
+    "no-reserved-keys": 0,
     "no-sparse-arrays": 2,
     "no-unreachable": 2,
     "use-isnan": 2,
