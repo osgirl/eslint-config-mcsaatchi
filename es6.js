@@ -1,14 +1,8 @@
 module.exports = {
-  "extends": "./.eslintrc-defaults",
+  "extends": "./index.js",
   "parser": "babel-eslint",
   "env": {
-    "browser": true,
-    "node": true,
     "es6": true
-  },
-  "globals": {
-    "Modernizr": true,
-    "ga": true
   },
   "ecmaFeatures": {
     "arrowFunctions": true,
@@ -31,9 +25,6 @@ module.exports = {
     "no-var": 1,
     "prefer-const": 2,
     "no-this-before-super": 2,
-    "object-shorthand": [
-      1,
-      "always"
-    ]
+    "object-shorthand": [1, "always"]
   }
-}
+};
