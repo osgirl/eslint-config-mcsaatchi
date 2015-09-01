@@ -162,7 +162,7 @@ module.exports = {
     "no-new-object": 2,
     "no-spaced-func": 2,
     "no-trailing-spaces": 2,
-    "no-wrap-func": 2,
+    "no-extra-parens": 1,
     "no-underscore-dangle": 0,
     "one-var": [
       2,
@@ -191,6 +191,6 @@ module.exports = {
     ],
     "space-infix-ops": 2,
     "space-return-throw-case": 2,
-    "spaced-line-comment": 2
+    "spaced-comment": 2
   }
 }
