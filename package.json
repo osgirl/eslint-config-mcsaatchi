@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-mcsaatchi",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "ESlint config used at M&C Saatchi London",
   "main": "index.js",
   "scripts": {
